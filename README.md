@@ -61,11 +61,10 @@ I am .Net Software Developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mirsait&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirsait&count-private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mirsait's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Mirsait&count-private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirsait&count_private=true&langs_count=6&show_icons=true&theme=transparent&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Mirsait&count_private=true&langs_count=6&show_icons=true&theme=transparent&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
