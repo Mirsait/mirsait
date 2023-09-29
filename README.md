@@ -27,13 +27,8 @@
 ---
 
 ### :man_technologist: About me
+
 I am .Net Software Developer
-
----
-
-[![mirsait's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirsait)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
