@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/mirsait">
         <img src="https://img.shields.io/badge/linkedin-li-white?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="https://www.facebook.com/mirsdorner">
+    <a href="https://www.facebook.com/auchmikhail">
         <img src="https://img.shields.io/badge/facebook-fb-blue?style=for-the-badge&logo=facebook&logoColor=blue"
         alt="Facebook Badge">
     </a>
@@ -25,10 +25,6 @@
 </div>
 
 ---
-
-### :man_technologist: About me
-
-I am .Net Software Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 
