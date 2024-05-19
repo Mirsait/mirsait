@@ -10,11 +10,7 @@
     <a href="https://www.facebook.com/auchmikhail">
         <img src="https://img.shields.io/badge/facebook-fb-blue?style=for-the-badge&logo=facebook&logoColor=blue"
         alt="Facebook Badge">
-    </a>
-    <a href="https://twitter.com/__mirsait__">
-        <img src="https://img.shields.io/badge/twitter-tw-blue?style=for-the-badge&logo=twitter&logoColor=1DA1F2"
-        alt="Twitter Badge">
-    </a>    
+    </a> 
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Mirsait&style=for-the-badge&color=green" alt=""/>
